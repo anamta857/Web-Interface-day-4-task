@@ -49,12 +49,6 @@ Anamta BSIT Student
 
 ---
 
-# Repository Name
-
-GitHub repository name:
-
-```text
-student-performance-predictor
 
 Description:
 
